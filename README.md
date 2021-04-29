@@ -24,3 +24,15 @@ The ER Diagram was then used to generate the Database Schema as seen below:
 
 Red Colored Columns signify the Primary Keys and the Green Colored Columns Signify the Foreign Keys
 
+# Other Topics Covered
+6) More Basic Queries
+7) Functions
+8) Wildcards
+9) Union
+10) Joins
+11) Nested Queries
+12) On Delete
+13) Triggers
+
+
+
