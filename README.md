@@ -1,5 +1,5 @@
 # MySQL-Tutorials
-This repository contains the sql queries I made from the SQL Tutorial-Full Database Course for Beginners by freeCodeCamp.org.
+This repository contains the sql queries I made taking the SQL Tutorial-Full Database Course for Beginners by freeCodeCamp.org.
 
 The course is designed for beginners to SQL and database management systems, and introduced common database management topics.
 
