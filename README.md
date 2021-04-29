@@ -17,3 +17,10 @@ The sql queries in the attached document covers the following topics:
 A more complex database was created to cover more complex sql queries. Below is the Company ER Diagram:
 
 ![alt text](http://www.mikedane.com/databases/sql/company-erd.png)
+
+# Creation of the Database Schema
+The ER Diagram was then used to generate the Database Schema as seen below:
+![alt text](http://www.mikedane.com/databases/sql/company-relations.png)
+
+Red Colored Columns signify the Primary Keys and the Green Colored Columns Signify the Foreign Keys
+
