@@ -16,6 +16,4 @@ The sql queries in the attached document covers the following topics:
 # Creation of a More Complex DataBase
 A more complex database was created to cover more complex sql queries. Below is the Company ER Diagram:
 
-http://www.mikedane.com/databases/sql/company-erd.png![image]
-
-
+![alt text](http://www.mikedane.com/databases/sql/company-erd.png)
